@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  akswebapi:
+    image: akswebapi
+    build:
+      context: .
+      dockerfile: akswebapi\Dockerfile
+    

@@ -1,0 +1,1 @@
+C:\Users\Syntel\source\repos\akswebapi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

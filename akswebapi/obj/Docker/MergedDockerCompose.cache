@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  akswebapi:
+    build:
+      context: C:\Users\Syntel\source\repos\akswebapi
+      dockerfile: akswebapi\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: akswebapi
+    ports:
+    - 80/tcp
+version: '3.0'

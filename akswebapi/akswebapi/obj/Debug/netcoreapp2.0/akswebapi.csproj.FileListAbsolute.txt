@@ -1,0 +1,11 @@
+C:\Users\Syntel\source\repos\akswebapi\akswebapi\bin\Debug\netcoreapp2.0\akswebapi.deps.json
+C:\Users\Syntel\source\repos\akswebapi\akswebapi\bin\Debug\netcoreapp2.0\akswebapi.runtimeconfig.json
+C:\Users\Syntel\source\repos\akswebapi\akswebapi\bin\Debug\netcoreapp2.0\akswebapi.runtimeconfig.dev.json
+C:\Users\Syntel\source\repos\akswebapi\akswebapi\bin\Debug\netcoreapp2.0\akswebapi.dll
+C:\Users\Syntel\source\repos\akswebapi\akswebapi\obj\Debug\netcoreapp2.0\akswebapi.csprojResolveAssemblyReference.cache
+C:\Users\Syntel\source\repos\akswebapi\akswebapi\obj\Debug\netcoreapp2.0\akswebapi.csproj.CoreCompileInputs.cache
+C:\Users\Syntel\source\repos\akswebapi\akswebapi\obj\Debug\netcoreapp2.0\akswebapi.AssemblyInfoInputs.cache
+C:\Users\Syntel\source\repos\akswebapi\akswebapi\obj\Debug\netcoreapp2.0\akswebapi.AssemblyInfo.cs
+C:\Users\Syntel\source\repos\akswebapi\akswebapi\bin\Debug\netcoreapp2.0\akswebapi.pdb
+C:\Users\Syntel\source\repos\akswebapi\akswebapi\obj\Debug\netcoreapp2.0\akswebapi.dll
+C:\Users\Syntel\source\repos\akswebapi\akswebapi\obj\Debug\netcoreapp2.0\akswebapi.pdb
